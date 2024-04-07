@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+
+.container{
+    margin: 0;      
+}
+
+.header{
+    background-color: rgba(37,37,37,255);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+}
