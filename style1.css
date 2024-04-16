@@ -1,0 +1,8 @@
+.conatiner {
+    background-color: palevioletred;
+    color: blue;
+}
+.navar > p {
+    background-color: grey;
+    color: blueviolet;
+}
